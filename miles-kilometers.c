@@ -19,4 +19,5 @@ printf("%f miles is %f kilometers.\n", miles, kilometers);
 
 return 0;
  }
-
+// I ended up not needing to refer back to the initial program at all! I'm very proud actually, although I continue to have issue with some
+// lines needing semicolons and others not, it toook a few compile attempts.
